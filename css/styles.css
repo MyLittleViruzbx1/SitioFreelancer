@@ -1,0 +1,30 @@
+:root {
+    --blanco: #ffffff;
+    --oscuro: #212121;
+    --primario: #ffc107;
+    --secundario: #0097a7;
+    --gris:#757575;
+
+}
+
+
+html{
+    font-size:62.5%;
+}
+
+body {
+    font-size:16px;/* 1rem = 10px */
+    font-family: 'Lato', sans-serif;
+}
+
+
+.titulo {
+    text-align: center;
+    font-size:3.8rem;
+    color: var(--primario);
+    font-weight: 400;
+}
+
+.titulo span {
+    font-size:2rem;
+}
