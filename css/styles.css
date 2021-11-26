@@ -28,3 +28,35 @@ body {
 .titulo span {
     font-size:2rem;
 }
+
+
+
+.nav-bg{
+    background-color:var(--secundario);
+}
+
+
+.contenedor {
+    width: 120rem;
+    
+    /* margin-top: 0;
+    margin-right: auto;
+    margin-bottom: 0;
+    margin-left: auto; */
+    
+    /* margin: 0 auto 0 auto; */
+    
+    margin:0 auto;
+}
+
+.navegacion-principal{
+    background-color:var(--secundario);
+    padding:1rem;
+}
+
+.navegacion-principal a{
+    background-color:var(--primario);
+    color:var(--blanco);
+    text-decoration:none;
+
+}
