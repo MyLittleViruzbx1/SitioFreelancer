@@ -37,3 +37,12 @@ Bloques-Elementos-Modificadores
 Utility First 
 
 Modulos
+
+
+Responsive
+web DEsign
+
+adaptarse a diferentes moviles por medio de media queries
+
+CSS Box Model
+Todo en css es una caja  
