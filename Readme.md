@@ -19,4 +19,21 @@ El elemento se posicionara a la derecha una vez que se haya tomado el espacio qu
 margin elemento
 
 
-padding elemento
+padding elementoy los table-cell
+
+flexbox
+unidimensional para crear layouts
+tiene 2 ejes    
+que van en una sola direccion  
+fila -row
+columna -column
+
+utilizado unicamente para layouts y sustituye a los flotas
+
+
+BEM
+Bloques-Elementos-Modificadores
+
+Utility First 
+
+Modulos
