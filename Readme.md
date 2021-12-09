@@ -46,3 +46,27 @@ adaptarse a diferentes moviles por medio de media queries
 
 CSS Box Model
 Todo en css es una caja  
+
+
+CSS Grid
+permite definir la ubicaicon y tamaño de los elementos de tu sitio web
+
+flexbox: el contenido crece automaticamente
+utilizar: para la alineacion o distribucion de los elementos que estaran 
+dentro de contenedores
+
+||  ||  ||   
+||  ||  ||
+||  ||  ||
+
+CSS Grid: El contenido se agrupa dentro de un area definida
+utilizar: para definir el Layout de tu sitio web, como pueden ser las
+columnas o contenedores de elementos
+|__| | |__| | |__| 
+_____|______|______
+|__| | |__| | |__| 
+_____|______|______
+|__| | |__| | |__| 
+
+
+selectot de atributo
